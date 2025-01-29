@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5647ee27-47c6-49b2-b99d-50bb68bb319f" name="Changes" comment="header and bottom added">
-      <change afterPath="$PROJECT_DIR$/.idea/PythonProject2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="5647ee27-47c6-49b2-b99d-50bb68bb319f" name="Changes" comment="Trash added">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -130,7 +127,23 @@
       <option name="project" value="LOCAL" />
       <updated>1738169031475</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="header and bottom added 2">
+      <option name="closed" value="true" />
+      <created>1738169694958</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1738169694958</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Trash added">
+      <option name="closed" value="true" />
+      <created>1738169846608</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1738169846608</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -149,7 +162,9 @@
     <MESSAGE value="added file second" />
     <MESSAGE value="added wrong string 1" />
     <MESSAGE value="header and bottom added" />
-    <option name="LAST_COMMIT_MESSAGE" value="header and bottom added" />
+    <MESSAGE value="header and bottom added 2" />
+    <MESSAGE value="Trash added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Trash added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
